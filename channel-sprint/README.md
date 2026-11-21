@@ -1,7 +1,7 @@
 # Канали: 40 → 3–5 → 1
 
 Скіл `channel-sprint` · етап воркшопу «40 каналів і топ 3–5»
-Автор методики: Віталій Матвєєв · instagram.com/matvieiev.vitaliy
+Автор методики: Віталій Матвєєв
 
 ## Що робить
 
@@ -33,3 +33,12 @@ mkdir -p ~/.codex/skills && cp -r channel-sprint ~/.codex/skills/
 ## Важливо
 
 Скіл рахує, тренує і розбирає, але не працює замість вас. Висновки про ринок — тільки з реальних розмов із клієнтами.
+
+## Контакти автора
+
+**Віталій Матвєєв**
+
+- LinkedIn: https://linkedin.com/in/matvieiev-vitalii
+- Instagram: https://instagram.com/matvieiev.vitaliy
+- Telegram: https://t.me/Vitalii_Matvieiev
+- Пошта: vitalii@matvieiev.com

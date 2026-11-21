@@ -1,6 +1,6 @@
 # GTM-скіли для команд акселератора
 
-Автор: Віталій Матвєєв · instagram.com/matvieiev.vitaliy
+Автор: Віталій Матвєєв · [LinkedIn](https://linkedin.com/in/matvieiev-vitalii) · [Instagram](https://instagram.com/matvieiev.vitaliy) · [Telegram](https://t.me/Vitalii_Matvieiev) · vitalii@matvieiev.com
 
 Шість AI-скілів для практики після воркшопу «Customer Validation & Go-to-Market». Кожен відповідає етапу воркшопу і працює на одну ціль: перші платні клієнти до demo day.
 
@@ -68,3 +68,12 @@ cp -r funnel-from-end offer-builder discovery-trainer channel-sprint lead-qualif
 7. Щотижня оновлюйте цифри у **funnel-from-end** і результати тестів у **channel-sprint**.
 
 Результати додавайте на дошку воркшопу, у колонку своєї команди.
+
+## Контакти автора
+
+**Віталій Матвєєв**
+
+- LinkedIn: https://linkedin.com/in/matvieiev-vitalii
+- Instagram: https://instagram.com/matvieiev.vitaliy
+- Telegram: https://t.me/Vitalii_Matvieiev
+- Пошта: vitalii@matvieiev.com
